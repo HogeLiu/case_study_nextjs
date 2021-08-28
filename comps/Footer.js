@@ -1,9 +1,9 @@
 const Footer = () => {
     return (
-        <Footer>
-            Copylight 2021 hoge liu.
-        </Footer>
-     );
-}
- 
+      <footer>
+        Copyright 2021 Hoge List
+      </footer>
+    );
+  }
+   
 export default Footer;

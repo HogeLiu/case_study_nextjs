@@ -11,7 +11,7 @@ export const getStaticProps = async () => {
 }
 
 const Hogeliu = ({ hogeusers }) => {
-   console.log(hogeusers)
+  //console.log(hogeusers)
 
   return (
     <div>
